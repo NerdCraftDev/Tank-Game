@@ -5,16 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
-    path: Assets/Scenes/TreeSim.unity
-    guid: 43dad2eba7568f946ba4739a2e424c61
-  - enabled: 0
-    path: Assets/Scenes/LobbyRelayTest.unity
-    guid: 01b76f2d73410284b9261973ac525fd6
-  - enabled: 1
-    path: Assets/Samples/Relay/1.0.5/Simple Relay Sample (using UTP)/SimpleRelayUtp.unity
-    guid: 3573da1ccba6a412e965f523d689fbd6
   m_configObjects: {}
